@@ -34,7 +34,7 @@ Welcome to my GitHub profile! 🚀 I'm a **Data Enthusiast** currently on an exc
 ---
 
 ## 🤝 Connect With Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/) 
+- 🔗 [LinkedIn] www.linkedin.com/in/adedotun-kojeku-171175219/
 - ✉️ [Email Me](mailto:your-email@example.com)
 
 ---
